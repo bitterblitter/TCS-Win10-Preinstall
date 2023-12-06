@@ -10,6 +10,6 @@ Alternatively you can call directly within Powershell using the below:-
 
 Note:
 
-Based upon EPreP script by [Carl Hopkins](https://github.com/carlhopkins).
+Based upon Windows 10 PreP script by [Carl Hopkins](https://github.com/carlhopkins).
 
 With thanks to [Chris Titus](https://github.com/ChrisTitusTech), for original script source and inspiration.
