@@ -2,7 +2,7 @@
 
 **Current Ver - v0.11**
 
-See [Releases](https://github.com/carlhopkins/TCS-Win10-Preinstall/releases) for batchfile - **Recommended!**.
+See [Releases](https://github.com/carlhopkins/TCS-Win10-Preinstall/releases) for batchfile launcher - **Recommended!**.
 
 Alternatively you can call directly within Powershell using the below:- 
 
