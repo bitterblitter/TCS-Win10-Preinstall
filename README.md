@@ -1,4 +1,4 @@
-## TCS Windows 10 Machine Pre-Installation Preperation Tool ##
+## TCS Windows 10 Machine Pre-Installation PreP Tool ##
 
 **Current Ver - v0.11**
 
@@ -10,6 +10,6 @@ Alternatively you can call directly within Powershell using the below:-
 
 Note:
 
-Based upon original script by [Carl Hopkins](https://github.com/carlhopkins)
+Based upon script by [Carl Hopkins](https://github.com/carlhopkins).
 
-With thanks to [Chris Titus](https://github.com/ChrisTitusTech), for original script source and inspiration
+With thanks to [Chris Titus](https://github.com/ChrisTitusTech), for original script source and inspiration.
