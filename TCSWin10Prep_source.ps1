@@ -126,7 +126,7 @@ $Panel4.controls.AddRange(@($Label10,$ResultText))
 Write-Host "TCS Windows 10 PreP Tool Loaded & Ready..."
 $ResultText.text = "TCS Windows 10 PreP Tool Loaded & Ready..."
 
-$essentialtweaks.Add_Click({
+$warptweaks.Add_Click({
 Write-Host "Cleanup in Progress..."
     $ResultText.text = "Cleanup in Progress..."
 
