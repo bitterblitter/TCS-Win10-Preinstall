@@ -10,6 +10,6 @@ Alternatively you can call directly within Powershell using the below:-
 
 Note:
 
-Based upon original script by **Carl Hopkins** - (https://github.com/carlhopkins)
+Based upon original script by [Carl Hopkins](https://github.com/carlhopkins)
 
-With thanks to **Chris Titus**, for original script source and inspiration - (https://github.com/ChrisTitusTech)
+With thanks to [Chris Titus](https://github.com/ChrisTitusTech), for original script source and inspiration
