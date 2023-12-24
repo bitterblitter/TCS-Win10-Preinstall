@@ -2,14 +2,14 @@
 
 **Current Ver - v0.11**
 
-See [Releases](https://github.com/bitterblitter/TCS-Win10-Preinstall/releases) for batchfile launcher - **Recommended!**.
+Use batchfile to launch utility directly.
 
-Alternatively you can call directly within Powershell using the below:- 
+Alternatively you can call directly within Powershell (elevated) using the below:- 
 
-<code>iwr -useb https://raw.githubusercontent.com/carlhopkins/TCS-Win10-Preinstall/main/current/TCSWin10Prep.ps1 | iex</code>
+<code>iwr -useb https://raw.githubusercontent.com/bitterblitter/TCS-Win10-Preinstall/main/TCSWin10Prep.ps1 | iex</code>
 
 Note:
 
-Based upon Windows 10 PreP script by [Carl Hopkins](https://github.com/carlhopkins).
+Based upon Windows 10 PreP script by [Carl Hopkins](https://github.com/bitterblitter).
 
 With thanks to [Chris Titus](https://github.com/ChrisTitusTech), for original script source and inspiration.

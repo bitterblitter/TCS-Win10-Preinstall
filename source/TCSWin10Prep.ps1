@@ -22,8 +22,8 @@ Write-Host ""
 
 # Hack to load in required resources
 Import-Module BitsTransfer
-Start-BitsTransfer -Source "https://raw.githubusercontent.com/carlhopkins/TCS-Win10-Preinstall/main/current/bimage.jpg" -Destination bimage.jpg
-Start-BitsTransfer -Source "https://raw.githubusercontent.com/carlhopkins/TCS-Win10-Preinstall/main/current/himage.jpg" -Destination himage.jpg
+Start-BitsTransfer -Source "https://raw.githubusercontent.com/bitterblitter/TCS-Win10-Preinstall/main/current/bimage.jpg" -Destination bimage.jpg
+Start-BitsTransfer -Source "https://raw.githubusercontent.com/bitterblitter/TCS-Win10-Preinstall/main/current/himage.jpg" -Destination himage.jpg
 Add-Type -Assembly System.Drawing
 $bimage = [System.Drawing.Image]::FromFile("./bimage.jpg")
 Add-Type -Assembly System.Drawing
